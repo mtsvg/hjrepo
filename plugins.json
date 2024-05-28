@@ -16,7 +16,7 @@
     "hash": "59ee93cc72b01cba9165083e002fe79cc072327d596ff80b89ff4a96783a9d1b",
     "size": 15403,
     "plugins": [
-      "com.theplug.kotori.kotoripluginloader.KotoriPluginLoadern"
+      "com.theplug.kotori.kotoripluginloader.KotoriPluginLoader"
     ],
     "displayName": "Kotori Plugin Loader",
     "description": "Used to load Kotoris Ported Plugins",

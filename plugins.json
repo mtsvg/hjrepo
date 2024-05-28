@@ -8,6 +8,7 @@
     ],
     "displayName": "Vorkath",
     "description": "vorkath description",
-    "provider": "bobby"
+    "provider": "bobby",
+    "iconURL" : ""https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   }
 ]

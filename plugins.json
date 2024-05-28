@@ -12,15 +12,15 @@
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   },
 {
-    "internalName": "VORKATH",
-    "hash": "a516a7b597d50e4be16e0f99aa5bad7bd42bc9aea1b3023a034a69883a28e6d8",
-    "size": 4504278,
+    "internalName": "ZULRAH",
+    "hash": "cb9d3d96ce1466560c091b88e933af1fe652fc919c85c1ea026fb3761fdda881",
+    "size": 4721374,
     "plugins": [
-      "com.example.VORKATH.TWVorkathPlugin"
+      "com.example.ZULRAH._Zulrah2.Zulrah2Plugin"
     ],
-    "displayName": "Vorkath2",
-    "description": "vorkath descriwerption",
-    "provider": "bobbyr",
-    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+    "displayName": "Zulrah",
+    "description": "zulrah description",
+    "provider": "bobby",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWZULRAH.png"
   }
 ]

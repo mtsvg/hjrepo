@@ -34,8 +34,8 @@
     "plugins": [
       "com.theplug.kotori.alchemicalhelper.AlchemicalHelperPlugin"
     ],
-    "displayName": "Hydra",
-    "description": "hyrda description",
+    "displayName": "Hydra Helper",
+    "description": "A plugin for the Alchemical Hydra boss. Overlays and automation for prayer and dodging special attacks",
     "provider": "Kotori",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
   } ,

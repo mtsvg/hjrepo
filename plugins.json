@@ -21,6 +21,18 @@
     "displayName": "Hydra",
     "description": "hyrda description",
     "provider": "Kotori",
-    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
+  } ,
+{
+    "internalName": "kotoriutils-1.3.17",
+    "hash": "ccc2fb97b2f54b88955d84c787b68d6ab56dd580b6b79aed3d5d8c3967a1403e",
+    "size": 125305,
+    "plugins": [
+      "com.theplug.kotori.kotoriutils.KotoriUtils"
+    ],
+    "displayName": "Kotori Utils",
+    "description": "aaaaa description",
+    "provider": "Kotori",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
   } 
 ]

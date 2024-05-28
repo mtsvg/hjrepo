@@ -19,8 +19,8 @@
       "com.example.VORKATH.TWVorkathPlugin"
     ],
     "displayName": "Vorkath2",
-    "description": "vorkath description",
-    "provider": "bobby",
+    "description": "vorkath descriwerption",
+    "provider": "bobbyr",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   }
 ]

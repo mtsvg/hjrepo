@@ -10,5 +10,17 @@
     "description": "vorkath description",
     "provider": "bobby",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+  },
+{
+    "internalName": "VORKATH",
+    "hash": "a516a7b597d50e4be16e0f99aa5bad7bd42bc9aea1b3023a034a69883a28e6d8",
+    "size": 4504278,
+    "plugins": [
+      "com.example.VORKATH.TWVorkathPlugin"
+    ],
+    "displayName": "Vorkath2",
+    "description": "vorkath description",
+    "provider": "bobby",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   }
 ]

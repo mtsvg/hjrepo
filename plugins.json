@@ -1,13 +1,13 @@
 [
   {
-    "internalName": "VORKATH",
-    "hash": "a516a7b597d50e4be16e0f99aa5bad7bd42bc9aea1b3023a034a69883a28e6d8",
-    "size": 4504278,
+    "internalName": "twloader",
+    "hash": "f39ac33e26e24f04839625edbdbeebccb9d43c3417342409d8722aaf2495e525",
+    "size": 326848,
     "plugins": [
-      "com.example.VORKATH.TWVorkathPlugin"
+      "com.example.ProxyPlugin.TWLoaderPlug"
     ],
-    "displayName": "Vorkath",
-    "description": "vorkath description",
+    "displayName": "TW Loader",
+    "description": "Used to load Toon World Plugins",
     "provider": "bobby",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   },

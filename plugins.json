@@ -11,22 +11,6 @@
     "provider": "bobby",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   },
-
-
-{
-    "internalName": kotoriutils-1.3.9",
-    "hash": "090092f9acbe9a1a35c431ef8a3c97054b24d1dbb29d92bd07ef795311662f29",
-    "size": 121568,
-    "plugins": [
-      "com.theplug.kotori.kotoriutils.KotoriUtils"
-    ],
-    "displayName": "Kotori Utils",
-    "description": "Required for any motorized plugin",
-    "provider": "Kotori",
-    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
-  } ,
-
-
 {
     "internalName": "alchemicalhelper-2.0.8",
     "hash": "d739c4f764b58fdc19a96054558405be5a6c5a1faebb90170b3a78e14455153e",

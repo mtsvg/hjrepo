@@ -11,8 +11,7 @@
     "provider": "bobby",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   },
-
-{
+  {
     "internalName": "alchemicalhelper-2.0.8",
     "hash": "d739c4f764b58fdc19a96054558405be5a6c5a1faebb90170b3a78e14455153e",
     "size": 33568,
@@ -20,10 +19,8 @@
       "com.theplug.kotori.alchemicalhelper.AlchemicalHelperPlugin"
     ],
     "displayName": "Alchemical Helper",
-    "description": "A plugin for the Alchemical Hydra boss. Overlays and automation for prayer and 	dodging special attacks.",
+    "description": "A plugin for the Alchemical Hydra boss. Overlays and automation for prayer and dodging special attacks.",
     "provider": "Kotori",
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   }
-
-
 ]

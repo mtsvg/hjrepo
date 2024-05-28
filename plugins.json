@@ -1,7 +1,7 @@
 [
   {
     "internalName": "VORKATH",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
+    "hash": "a516a7b597d50e4be16e0f99aa5bad7bd42bc9aea1b3023a034a69883a28e6d8",
     "size": 5000,
     "plugins": [
       "com.example.VORKATH.TWVorkathPlugin"

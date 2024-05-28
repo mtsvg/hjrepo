@@ -12,15 +12,15 @@
     "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   },
 {
-    "internalName": "ZULRAH",
-    "hash": "cb9d3d96ce1466560c091b88e933af1fe652fc919c85c1ea026fb3761fdda881",
-    "size": 4721374,
+    "internalName": "alchemicalhelper-2.0.8",
+    "hash": "d739c4f764b58fdc19a96054558405be5a6c5a1faebb90170b3a78e14455153e",
+    "size": 33568,
     "plugins": [
-      "com.example.ZULRAH._Zulrah2.Zulrah2Plugin"
+      "com.theplug.kotori.alchemicalhelper.AlchemicalHelperPlugin"
     ],
-    "displayName": "Zulrah",
-    "description": "zulrah description",
-    "provider": "bobby",
-    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWZULRAH.png"
+    "displayName": "Hydra",
+    "description": "hyrda description",
+    "provider": "Kotori",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
   }
 ]

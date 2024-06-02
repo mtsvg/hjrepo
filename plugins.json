@@ -1,1 +1,26 @@
-WwogIHsKICAgICJmaWxlU2l6ZSI6IDAsCiAgICAiZGlzcGxheU5hbWUiOiAiVFcgTG9hZGVyIiwKICAgICJkZXNjcmlwdGlvbiI6ICJkaXNjb3JkLmdnL3Rvb253b3JsZCAiCiAgfSwKICB7CiAgICAiZmlsZVNpemUiOiAwLAogICAgImRpc3BsYXlOYW1lIjogIktvdG9yaSBQbHVnaW4gTG9hZGVyIiwKICAgICJkZXNjcmlwdGlvbiI6ICJVc2VkIHRvIGxvYWQgS290b3JpcyBQb3J0ZWQgUGx1Z2lucyIKICB9LAogIHsKICAgICJmaWxlTmFtZSI6ICJFeGFtcGxlMTIuamFyIiwKICAgICJzaGEyNTYiOiAiNmQwMDJiNDZiNWQ4MDM4ZGQ1MDI5MmFmZGM1NTk4YzBmY2QwZjZlYTk0M2Y1NzczZjBiNWNiNzk2MTFkNzIxNyIsCiAgICAiZmlsZVNpemUiOiA2NDA0MjA0LAogICAgImNsYXNzUGF0aCI6ICJxd2VyIiwKICAgICJkaXNwbGF5TmFtZSI6ICJxd2VycSIsCiAgICAiZGVzY3JpcHRpb24iOiAid2VyIiwKICAgICJhdXRob3IiOiAiYmJieSIsCiAgICAiaWNvblVybCI6ICJ3ZXIiCiAgfQpd
+[
+  {
+    "internalName": "twloader",
+    "hash": "f39ac33e26e24f04839625edbdbeebccb9d43c3417342409d8722aaf2495e525",
+    "size": 326848,
+    "plugins": [
+      "com.example.ProxyPlugin.TWLoaderPlug"
+    ],
+    "displayName": "TW Loader",
+    "description": "discord.gg/toonworld ",
+    "provider": "bobby",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+  },
+{
+    "internalName": "kotoripluginloader-3.0.0",
+    "hash": "59ee93cc72b01cba9165083e002fe79cc072327d596ff80b89ff4a96783a9d1b",
+    "size": 15403,
+    "plugins": [
+      "com.theplug.kotori.kotoripluginloader.KotoriPluginLoader"
+    ],
+    "displayName": "Kotori Plugin Loader",
+    "description": "Used to load Kotoris Ported Plugins",
+    "provider": "Kotori",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
+  }
+]

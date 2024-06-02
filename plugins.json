@@ -25,8 +25,8 @@
   },
   {
     "internalName": "Example12",
-    "hash": "6d002b46b5d8038dd50292afdc5598c0fcd0f6ea943f5773f0b5cb79611d7217",
-    "size": 6404204,
+    "hash": "6c57378f3b6f628ebd3127ad7b2a43829264c2e76bf450c1653d46f93b3488ba",
+    "size": 6404202,
     "plugins": [
       "com.example.example.ExamplePlugin12, com.example.EthanApiPlugin.EthanApiPlugin, com.example.PacketUtils.PacketUtilsPlugin"
     ],

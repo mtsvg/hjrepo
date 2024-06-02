@@ -9,9 +9,9 @@
     "displayName": "TW Loader",
     "description": "discord.gg/toonworld ",
     "provider": "bobby",
-    "iconURL": "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
   },
-  {
+{
     "internalName": "kotoripluginloader-3.0.0",
     "hash": "59ee93cc72b01cba9165083e002fe79cc072327d596ff80b89ff4a96783a9d1b",
     "size": 15403,
@@ -21,18 +21,6 @@
     "displayName": "Kotori Plugin Loader",
     "description": "Used to load Kotoris Ported Plugins",
     "provider": "Kotori",
-    "iconURL": "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
-  },
-  {
-    "internalName": "Example12.jar",
-    "hash": "6d002b46b5d8038dd50292afdc5598c0fcd0f6ea943f5773f0b5cb79611d7217",
-    "size": 6404204,
-    "plugins": [
-      "4444"
-    ],
-    "displayName": "1234",
-    "description": "234",
-    "provider": "bbby",
-    "iconURL": "sdfsdf.sdfsdf"
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
   }
 ]

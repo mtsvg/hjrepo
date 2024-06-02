@@ -1,1 +1,26 @@
-WwogIHsKICAgICJpbnRlcm5hbE5hbWUiOiAidHdsb2FkZXIiLAogICAgImhhc2giOiAiZjM5YWMzM2UyNmUyNGYwNDgzOTYyNWVkYmRiZWViY2NiOWQ0M2MzNDE3MzQyNDA5ZDg3MjJhYWYyNDk1ZTUyNSIsCiAgICAic2l6ZSI6IDMyNjg0OCwKICAgICJwbHVnaW5zIjogWwogICAgICAiY29tLmV4YW1wbGUuUHJveHlQbHVnaW4uVFdMb2FkZXJQbHVnIgogICAgXSwKICAgICJkaXNwbGF5TmFtZSI6ICJUVyBMb2FkZXIiLAogICAgImRlc2NyaXB0aW9uIjogImRpc2NvcmQuZ2cvdG9vbndvcmxkICIsCiAgICAicHJvdmlkZXIiOiAiYm9iYnkiLAogICAgImljb25VUkwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rvb253NjkvaWNvbnMvbWFpbi9UV1ZPUktBVEgucG5nIgogIH0sCiAgewogICAgImludGVybmFsTmFtZSI6ICJrb3RvcmlwbHVnaW5sb2FkZXItMy4wLjAiLAogICAgImhhc2giOiAiNTllZTkzY2M3MmIwMWNiYTkxNjUwODNlMDAyZmU3OWNjMDcyMzI3ZDU5NmZmODBiODlmZjRhOTY3ODNhOWQxYiIsCiAgICAic2l6ZSI6IDE1NDAzLAogICAgInBsdWdpbnMiOiBbCiAgICAgICJjb20udGhlcGx1Zy5rb3Rvcmkua290b3JpcGx1Z2lubG9hZGVyLktvdG9yaVBsdWdpbkxvYWRlciIKICAgIF0sCiAgICAiZGlzcGxheU5hbWUiOiAiS290b3JpIFBsdWdpbiBMb2FkZXIiLAogICAgImRlc2NyaXB0aW9uIjogIlVzZWQgdG8gbG9hZCBLb3RvcmlzIFBvcnRlZCBQbHVnaW5zIiwKICAgICJwcm92aWRlciI6ICJLb3RvcmkiLAogICAgImljb25VUkwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rvb253NjkvaWNvbnMvbWFpbi9PUkVPLnBuZyIKICB9LAogIHsKICAgICJpbnRlcm5hbE5hbWUiOiAiRXhhbXBsZTEyLmphciIsCiAgICAiaGFzaCI6ICI2ZDAwMmI0NmI1ZDgwMzhkZDUwMjkyYWZkYzU1OThjMGZjZDBmNmVhOTQzZjU3NzNmMGI1Y2I3OTYxMWQ3MjE3IiwKICAgICJzaXplIjogNjQwNDIwNCwKICAgICJwbHVnaW5zIjogWwogICAgICAiY29tLmV4YW1wbGUuZXhhbXBsZS5FeGFtcGxlUGx1Z2luMTIiCiAgICBdLAogICAgImRpc3BsYXlOYW1lIjogIkV4YW1wbGUgMTIiLAogICAgImRlc2NyaXB0aW9uIjogIml0cyBhIHRlc3QiLAogICAgInByb3ZpZGVyIjogImJiYnkiLAogICAgImljb25VUkwiOiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rvb253NjkvaWNvbnMvbWFpbi9PUkVPLnBuZyIKICB9Cl0=
+[
+  {
+    "internalName": "twloader",
+    "hash": "f39ac33e26e24f04839625edbdbeebccb9d43c3417342409d8722aaf2495e525",
+    "size": 326848,
+    "plugins": [
+      "com.example.ProxyPlugin.TWLoaderPlug"
+    ],
+    "displayName": "TW Loader",
+    "description": "discord.gg/toonworld ",
+    "provider": "bobby",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+  },
+{
+    "internalName": "kotoripluginloader-3.0.0",
+    "hash": "59ee93cc72b01cba9165083e002fe79cc072327d596ff80b89ff4a96783a9d1b",
+    "size": 15403,
+    "plugins": [
+      "com.theplug.kotori.kotoripluginloader.KotoriPluginLoader"
+    ],
+    "displayName": "Kotori Plugin Loader",
+    "description": "Used to load Kotoris Ported Plugins",
+    "provider": "Kotori",
+    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
+  }
+]

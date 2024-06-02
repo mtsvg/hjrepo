@@ -1,26 +1,22 @@
 [
   {
-    "internalName": "twloader",
-    "hash": "f39ac33e26e24f04839625edbdbeebccb9d43c3417342409d8722aaf2495e525",
-    "size": 326848,
-    "plugins": [
-      "com.example.ProxyPlugin.TWLoaderPlug"
-    ],
+    "fileSize": 0,
     "displayName": "TW Loader",
-    "description": "discord.gg/toonworld ",
-    "provider": "bobby",
-    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/TWVORKATH.png"
+    "description": "discord.gg/toonworld "
   },
-{
-    "internalName": "kotoripluginloader-3.0.0",
-    "hash": "59ee93cc72b01cba9165083e002fe79cc072327d596ff80b89ff4a96783a9d1b",
-    "size": 15403,
-    "plugins": [
-      "com.theplug.kotori.kotoripluginloader.KotoriPluginLoader"
-    ],
+  {
+    "fileSize": 0,
     "displayName": "Kotori Plugin Loader",
-    "description": "Used to load Kotoris Ported Plugins",
-    "provider": "Kotori",
-    "iconURL" : "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
+    "description": "Used to load Kotoris Ported Plugins"
+  },
+  {
+    "fileName": "Example12.jar",
+    "sha256": "6d002b46b5d8038dd50292afdc5598c0fcd0f6ea943f5773f0b5cb79611d7217",
+    "fileSize": 6404204,
+    "classPath": "fsfsfs",
+    "displayName": "asdf",
+    "description": "asdf",
+    "author": "bbby",
+    "iconUrl": "www.google"
   }
 ]

@@ -36,5 +36,19 @@
     "description": "testing again",
     "provider": "bbby",
     "iconURL": "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
+  },
+  {
+    "internalName": "Example12",
+    "hash": "6d002b46b5d8038dd50292afdc5598c0fcd0f6ea943f5773f0b5cb79611d7217",
+    "size": 6404204,
+    "plugins": [
+      "com.example.example.ExamplePlugin12",
+      "com.example.EthanApiPlugin.EthanApiPlugin",
+      "com.example.PacketUtils.PacketUtilsPlugin"
+    ],
+    "displayName": "Example 12",
+    "description": "trying both",
+    "provider": "bbby",
+    "iconURL": "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
   }
 ]

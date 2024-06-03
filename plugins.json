@@ -29,8 +29,8 @@
     "size": 6404204,
     "plugins": [
       "com.example.example.ExamplePlugin12",
-      " com.example.EthanApiPlugin.EthanApiPlugin",
-      " com.example.PacketUtils.PacketUtilsPlugin"
+      "com.example.EthanApiPlugin.EthanApiPlugin",
+      "com.example.PacketUtils.PacketUtilsPlugin"
     ],
     "displayName": "Example 12",
     "description": "test plugin",

@@ -22,19 +22,5 @@
     "description": "Used to load Kotoris Ported Plugins",
     "provider": "Kotori",
     "iconURL": "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
-  },
-  {
-    "internalName": "Example12",
-    "hash": "6c57378f3b6f628ebd3127ad7b2a43829264c2e76bf450c1653d46f93b3488ba",
-    "size": 6404202,
-    "plugins": [
-    "com.example.example.ExamplePlugin12",
-    "com.example.EthanApiPlugin.EthanApiPlugin",
-    "com.example.PacketUtils.PacketUtilsPlugin"
-  ],
-    "displayName": "Example 12",
-    "description": "a test plugin",
-    "provider": "bbby",
-    "iconURL": "https://raw.githubusercontent.com/toonw69/icons/main/OREO.png"
   }
 ]

@@ -42,9 +42,7 @@
     "hash": "6d002b46b5d8038dd50292afdc5598c0fcd0f6ea943f5773f0b5cb79611d7217",
     "size": 6404204,
     "plugins": [
-      "com.example.example.ExamplePlugin12",
-      "com.example.EthanApiPlugin.EthanApiPlugin",
-      "com.example.PacketUtils.PacketUtilsPlugin"
+      "com.example.example.ExamplePlugin12"
     ],
     "displayName": "Example 12",
     "description": "trying both",
